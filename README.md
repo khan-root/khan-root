@@ -1,7 +1,15 @@
 ## Hi there 👋
 
 
+### Tech Stack
+- **Frontend**: React, Tailwind CSS
+- **Backend**: Express, Node.js
+- **Database**: MongoDB, PostgreSQL
+- **ORM**: Prisma
+- **Languages**: TypeScript, JavaScript
 
+
+<!--
 [![Sarmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=khan-root)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **khan-root/khan-root** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
